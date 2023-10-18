@@ -1,5 +1,5 @@
 # Pygeo Three.js
-> Collaboration Dashboard to manipulate 3D Objects\
+> Collaboration Dashboard to manipulate 3D Objects
 
 ## Meta
 
