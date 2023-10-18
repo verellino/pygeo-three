@@ -1,0 +1,18 @@
+# use glob syntax.
+syntax: glob
+doc/_build/*
+*.o
+*.pyc
+*.~
+*.dat
+*.orig
+*~
+*.a
+*.mod
+*.so
+*.out
+*.egg-info
+config.mk
+config/config.mk
+src/f2py/libspline-f2pywrappers2.f90
+*.DS_Store
