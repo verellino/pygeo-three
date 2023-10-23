@@ -1,6 +1,21 @@
+### Install Libraries
+```
+python3 -m pip install -r requirements.txt
+```
+
+#### Pygeo Library Installation
+```
+cd pyspline-main
+pip install .
+
+cd pygeo-main
+pip install .
+```
+
 ### Run Django Server
 ```
 source backend/bin/activate
+cd backend
 python3 manage.py runserver
 ```
 
