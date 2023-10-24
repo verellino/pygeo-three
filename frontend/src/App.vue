@@ -1,5 +1,8 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import { useShapeDetails } from "@/stores/shapeDetails";
+
+const store = useShapeDetails();
 </script>
 
 <template>
